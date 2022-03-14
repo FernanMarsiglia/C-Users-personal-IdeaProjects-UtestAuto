@@ -12,7 +12,9 @@ import net.serenitybdd.screenplay.actors.Onstage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
 import static co.com.choucair.certification.UtestAuto.tasks.OpenUp.*;
-
+import static co.com.choucair.certification.UtestAuto.tasks.Login.*;
+import static co.com.choucair.certification.UtestAuto.tasks.Finish.*;
+import static co.com.choucair.certification.UtestAuto.tasks.Fills.*;
 
 public class UtestAutoStepDefinitions {
     @Before
