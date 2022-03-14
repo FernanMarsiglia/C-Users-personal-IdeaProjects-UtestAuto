@@ -6,6 +6,6 @@
   @scenario1
   Scenario: Sign up in the utest platform
     Given than Fernan wants to join in the utest platform
-    When he enters to the website and clicks on register
-    Then he fills out the registration form
+    When he fills out last steps of the form
+    Then he complete set up the registration form
 
